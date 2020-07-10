@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_contact"
+        android:icon="@drawable/ic_contact"
+        android:enabled="true"
+        android:title="contact"
+        />
+    <item
+        android:id="@+id/action_album"
+        android:icon="@drawable/ic_album"
+        android:enabled="true"
+        android:title="album"
+        />
+    <item
+        android:id="@+id/action_todo"
+        android:icon="@drawable/ic_todo"
+        android:enabled="true"
+        android:title="todo"
+        />
+</menu>
